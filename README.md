@@ -1,12 +1,79 @@
-# React + Vite
+Excellent — here’s a clean, combined, and polished `README.md` you can directly use for your repo:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# 📦 VUEZ Concepts Figma Design Replication
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a **React + Vite + Tailwind CSS** implementation replicating a provided **Figma UI design** for a ticketing and product selection interface. The app was deployed using **Vercel**.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+* **React JS**
+* **Vite JS**
+* **Tailwind CSS**
+* **Vercel (Deployment)**
+
+---
+
+## 📑 Hosted Pages & Figma Page Mapping
+
+| Figma Page Name  | Hosted Live Link                                                |
+| :--------------- | :-------------------------------------------------------------- |
+| **Ticket Page**  | [Link](https://vuez-concepts-figma-design.vercel.app/)          |
+| **Products 1**   | [Link](https://vuez-concepts-figma-design.vercel.app/products1) |
+| **Products 2**   | [Link](https://vuez-concepts-figma-design.vercel.app/products2) |
+| **Form 1**       | [Link](https://vuez-concepts-figma-design.vercel.app/form1)     |
+| **Form 2**       | [Link](https://vuez-concepts-figma-design.vercel.app/form2)     |
+| **Form 3**       | [Link](https://vuez-concepts-figma-design.vercel.app/form3)     |
+| **Form 4**       | [Link](https://vuez-concepts-figma-design.vercel.app/form4)     |
+| **Promocode**    | [Link](https://vuez-concepts-figma-design.vercel.app/promo)     |
+| **GITEX Ticket** | [Link](https://vuez-concepts-figma-design.vercel.app/ticket)    |
+| **Success Page** | [Link](https://vuez-concepts-figma-design.vercel.app/success)   |
+
+---
+
+
+## 📦 Project Setup (Local)
+
+Clone the repository and run the following commands:
+
+```bash
+npm install
+npm run dev
+```
+
+## 📂 Available Routes (Local)
+
+After running the project locally, these routes will be accessible:
+
+| Page                  | Route Path   |
+| :-------------------- | :----------- |
+| **Ticket Page**       | `/`          |
+| **Products 1**        | `/products1` |
+| **Products 2**        | `/products2` |
+| **Form 1**            | `/form1`     |
+| **Form 2**            | `/form2`     |
+| **Form 3**            | `/form3`     |
+| **Form 4**            | `/form4`     |
+| **Promocode Page**    | `/promo`     |
+| **GITEX Ticket Page** | `/ticket`    |
+| **Success Page**      | `/success`   |
+
+---
+
+## 📤 Deployment
+
+Deployed via **Vercel**.
+
+* **Build Command:** `npm run build`
+* **Output Directory:** `dist`
+
+---
+
+## 📄 Task Summary
+
+Replicated a detailed **Figma UI design** using **React, Vite, and Tailwind CSS**, achieving high layout accuracy, spacing consistency, and responsiveness. Live hosted links provided for each equivalent Figma page.
+
+---
