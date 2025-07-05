@@ -22,7 +22,7 @@ This project is a **React + Vite + Tailwind CSS** implementation replicating a p
 | Figma Page Name  | Hosted Live Link                                                |
 | :--------------- | :-------------------------------------------------------------- |
 | **Ticket Page**  | [Link](https://vuez-concepts-figma-design.vercel.app/)          |
-| **Products 1**   | [Link](https://vuez-concepts-figma-design.vercel.app/products1) |
+| **Products 1**   | [Link](https://vuez-concepts-figma-design.vercel.app/products) |
 | **Products 2**   | [Link](https://vuez-concepts-figma-design.vercel.app/products2) |
 | **Form 1**       | [Link](https://vuez-concepts-figma-design.vercel.app/form1)     |
 | **Form 2**       | [Link](https://vuez-concepts-figma-design.vercel.app/form2)     |
@@ -51,7 +51,7 @@ After running the project locally, these routes will be accessible:
 | Page                  | Route Path   |
 | :-------------------- | :----------- |
 | **Ticket Page**       | `/`          |
-| **Products 1**        | `/products1` |
+| **Products 1**        | `/products` |
 | **Products 2**        | `/products2` |
 | **Form 1**            | `/form1`     |
 | **Form 2**            | `/form2`     |
