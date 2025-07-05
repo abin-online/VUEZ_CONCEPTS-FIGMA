@@ -58,7 +58,7 @@ const GitexTicket = () => {
 
             {/* Progress steps */}
             <div className="relative z-10 max-w-7xl mx-auto px-4 py-10">
-                <ProgressStepper currentStep={2} />
+                <ProgressStepper currentStep={4} />
 
                 <div className="bg-white shadow-xl rounded-2xl overflow-hidden">
                     <div className="bg-gradient-to-r from-green-600 to-green-700 p-6">
